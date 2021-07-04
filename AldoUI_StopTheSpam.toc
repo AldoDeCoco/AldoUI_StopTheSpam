@@ -1,0 +1,18 @@
+## Interface: 90100
+## Title: !|cff00ffffAldoUI|r |cff9482c9StopTheSpam!|r
+## Notes: Finally! No more AddOn loading spam.
+## Version: v0.9
+## Author: AldoDeCoco
+
+## OptionalDeps: Ace2
+
+## X-Category: Miscellaneous
+## X-Embeds: Ace2
+
+libs\AceLibrary\AceLibrary.lua
+libs\AceOO-2.0\AceOO-2.0.lua
+
+libs\AceHook-2.1\AceHook-2.1.lua
+
+Ruleset.lua
+StopTheSpam.lua
